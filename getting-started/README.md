@@ -6,26 +6,19 @@ description: >-
 
 # Getting Started
 
-## Getting Super Powers
+{% page-ref page="hardware-requirements-1.md" %}
 
-Becoming a super hero is a fairly straight forward process:
+{% page-ref page="10-minute-quickstart.md" %}
 
-```
-$ give me super-powers
-```
+{% page-ref page="setup-your-menus.md" %}
 
-{% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
-{% endhint %}
+{% page-ref page="configure-your-services.md" %}
 
-Once you're strong enough, save the world:
+{% page-ref page="customize-your-design.md" %}
 
-{% code title="hello.sh" %}
-```bash
-# Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
-{% endcode %}
+{% page-ref page="managing-orders-and-bookings.md" %}
+
+{% page-ref page="promoting-your-store/" %}
 
 
 
