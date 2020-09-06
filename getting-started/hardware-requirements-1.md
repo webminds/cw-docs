@@ -15,7 +15,7 @@ Every aspect of the system runs online and therefore requires you to be connecte
 * Consider exclusively using a 3G / 4G mobile internet connection. Certain countries have a much more reliable mobile network such as Australia.
 
 {% hint style="warning" %}
-IT staff occasionally set up an internet firewall for small business to prevent accessing harmful content. Ensure that cloudwaitress.com is white-listed on your firewall to avoid connection issues to our servers.
+IT staff occasionally set up an internet firewall for small business to prevent accessing harmful content. Ensure that cloudorders.site is white-listed on your firewall to avoid connection issues to our servers.
 {% endhint %}
 
 ## Computer or Tablet

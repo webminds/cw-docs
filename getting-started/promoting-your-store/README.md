@@ -38,7 +38,7 @@ SEO which stands for search engine optimization is the process of making your si
 
 ### Setup A Custom Domain Name
 
-By default, your online store can be found on a sub-domain of "cloudwaitress.com. It is essential that you set this subdomain to be something that customers can easily remember and recognize.
+By default, your online store can be found on a sub-domain of "cloudorders.site". It is essential that you set this subdomain to be something that customers can easily remember and recognize.
 
 While the subdomain is just there to get you up and running quickly, it's best to purchase your own domain name for your business. You can then configure your store to your own custom domain name.
 
