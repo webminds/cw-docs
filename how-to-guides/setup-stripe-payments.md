@@ -40,7 +40,7 @@ To withdraw online payments to your bank, you will need to ensure your Stripe ac
 
 ## Stripe Fee's
 
-We are not responsible for your Stripe account management or fees. Your Stripe account is simply linked to your CloudWaitress account to process charges on your behalf with the money going straight to your account.
+We are not responsible for your Stripe account management or fees. Your Stripe account is simply linked to your CloudOreder account to process charges on your behalf with the money going straight to your account.
 
 As such it is important you are aware of Stripe's payment processing fees. You can read more here [https://stripe.com/pricing](https://stripe.com/pricing). Please also take the time to read their FAQ and support to clear up any issues you may have.
 

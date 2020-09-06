@@ -1,7 +1,7 @@
 ---
 description: >-
   Driver Tracking powered by QuestTag.com provides customer notifications with
-  real-time delivery driver tracking for CloudWaitress delivery orders.
+  real-time delivery driver tracking for CloudOrders delivery orders.
 ---
 
 # How to add Driver Tracking
@@ -9,7 +9,7 @@ description: >-
 ## Features
 
 * Easy-to-use dashboard
-* CloudWaitress orders automatically added
+* CloudOrders orders automatically added
 * Real-time tracking of drivers for restaurant and customer
 * Mobile app for drivers
 * Customer email notifications
@@ -19,7 +19,7 @@ description: >-
 
 ## Set-up QuestTag Integration
 
-1. Open your CloudWaitress account - [https://admin.cloudorders.site](https://admin.cloudorders.site)
+1. Open your CloudOrders account - [https://admin.cloudorders.site](https://admin.cloudorders.site)
 2. Select 'Manage' for the Restaurant you would like to integrate.
 3. Go to 'Settings' &gt; 'Integrations' &gt; Click on the 'QuestTag Logo'.
 4. Paste the QuestTag API key from your QuestTag.com account.

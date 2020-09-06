@@ -15,7 +15,7 @@ Below shows an example of the COVID-19 discount applied to the checkout.
 
 ## Set-up Process
 
-CloudWaitress supports the COVID-19 Discount for Dine-In orders with the following settings;
+CloudOrders supports the COVID-19 Discount for Dine-In orders with the following settings;
 
 ![Go to Settings &amp;gt; System &amp;gt; Promo Codes &amp;gt; Create Promo Code](../.gitbook/assets/covid0.png)
 

@@ -20,7 +20,7 @@ Once PayPal is enabled, the option will be available to customers during the che
 
 ## Requirements
 
-In order to use PayPal with CloudWaitress, you will need a **fully valid business account**. If you already have a PayPal business account, you can skip this step.
+In order to use PayPal with CloudOrders, you will need a **fully valid business account**. If you already have a PayPal business account, you can skip this step.
 
 If you do not already have one, sign up at [https://www.paypal.com/webapps/mpp/account-selection](https://www.paypal.com/webapps/mpp/account-selection). You can also upgrade your personal account to a business one from within your account settings.
 
