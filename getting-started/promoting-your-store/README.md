@@ -7,6 +7,8 @@ description: >-
 
 # Promoting Your Store
 
+
+
 {% hint style="info" %}
 Promoting your store goes well beyond the scope of our software. This single page does not do justice to the vast number of promotion strategies available. The below suggestions are here to help you get started.
 {% endhint %}

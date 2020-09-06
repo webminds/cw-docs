@@ -24,14 +24,17 @@ description: How to guide to print with a network printer
 
 ![](../.gitbook/assets/untitled-3%20%281%29.png)
 
-1. Open the PushPrinter for Windows program application
-2. Go to the 'settings' cog and select the default provider profile from the dropdown list.
+1. If the test page does not print. Then please connect and install the printer correctly. Please see : [Printer Set up](https://www.notion.so/cloudwaitresswiki/Printing-Add-a-printer-18689e4654fe4978b20aeb82b581d81e).
+2. Open the PushPrinter for Windows program application
+3. Go to the 'settings' cog and select the default or CloudWaitress provider profile from the dropdown list.
 
 ![](../.gitbook/assets/untitled-4%20%282%29.png)
 
-3. Enable 'Automatically start PushPrinter'. \(This allows the application to auto-start when resetting your machine\).
+1. Enable 'Automatically start PushPrinter'. \(This allows the application to auto-start when resetting your machine\).
 
-4. Press the printer button
+![](../.gitbook/assets/automatically-start-pushprinter.png)
+
+1. Press the printer button
 
 ![](../.gitbook/assets/untitled-6.png)
 
@@ -55,9 +58,9 @@ description: How to guide to print with a network printer
 {% hint style="danger" %}
 **NOTE:**
 
-**Printer name** - This is the name that the printer will show inside of CloudOrders.
+**Printer name** - This is the name that the printer will show inside of CloudWaitress.
 
-**API Key** - This needs to be copied from the printer settings inside of CloudOrders.
+**API Key** - This needs to be copied from the printer settings inside of CloudWaitress.
 
 **Number of copies** - This will determine how many copies of the are printed.
 
@@ -69,4 +72,6 @@ description: How to guide to print with a network printer
 1. Test print
 2. Create printer
 3. Go to your store and place a test order.
+
+\*\*\*\*
 
