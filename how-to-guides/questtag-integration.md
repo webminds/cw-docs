@@ -19,9 +19,7 @@ description: >-
 
 ## Set-up QuestTag Integration
 
-{% embed url="https://youtu.be/ZRzKbq3M-co" caption="" %}
-
-1. Open your CloudWaitress account - [admin.cloudwaitress.com](https://admin.cloudwaitress.com/).
+1. Open your CloudWaitress account - [https://admin.cloudorders.site](https://admin.cloudorders.site)
 2. Select 'Manage' for the Restaurant you would like to integrate.
 3. Go to 'Settings' &gt; 'Integrations' &gt; Click on the 'QuestTag Logo'.
 4. Paste the QuestTag API key from your QuestTag.com account.
@@ -33,6 +31,4 @@ Please make sure that you have Wait Times & Auto Statuses configured. Otherwise,
 
 **Find at**: 'Settings &gt; Services &gt; Deliveries &gt; Wait Times & Auto Statuses'.
 {% endhint %}
-
-![See drivers and deliveries in the QuestTag &apos;Map&apos; section.](../.gitbook/assets/screen-shot-2020-08-29-at-8.20.24-pm.png)
 
