@@ -38,7 +38,7 @@ Compatible devices:
 
 ## Recommended Computers & Tablets
 
-We highly recommend using an Android device or Windows 10 tablet/computer.  Windows provides the greatest flexibility and allows for wireless order printing whilst being able to use the order and table booking dashboard.
+We highly recommend using an Android device or Windows 10 tablet/computer. Windows provides the greatest flexibility and allows for wireless order printing whilst being able to use the order and table booking dashboard.
 
 ### Worldwide
 

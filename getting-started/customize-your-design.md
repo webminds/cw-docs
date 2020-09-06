@@ -5,9 +5,7 @@ description: >-
   located under the settings page in the design
 ---
 
-# Customize Your Design
-
-{% embed url="https://youtu.be/g3ibBakpqMU" caption="Design video tutorial" %}
+# Customise Your Design
 
 ## How To Customize Your Design
 
