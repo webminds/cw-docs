@@ -44,7 +44,7 @@ I’m not talking about just throwing money pointlessly at Facebook ad’s and h
 
 I’m talking about targeted marketing that actually generates more sales. Facebook’s advertising platform is a hidden under-appreciated gem.
 
-If you are unsure how to use Facebook advertising, see our guide at - [Online Restaurant Marketing – Facebook Advertising](https://www.restaurantjourneys.com/blog/online-restaurant-marketing-facebook-advertising)
+If you are unsure how to use Facebook advertising, see our guide at - [Online Restaurant Marketing – Facebook Advertising](online-restaurant-marketing-facebook-advertising.md)
 
 There are 2 fundamental Facebook advertising campaigns that will cost you close to nothing and every restaurant MUST run!
 
