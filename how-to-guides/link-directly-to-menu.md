@@ -8,7 +8,7 @@ description: Lean how to use menu_id to create a direct link to a specific menu.
 
 Creating a direct link to your menu is a fairly straight forward process. The below example links to a specific menu within the demo store.
 
-```text
+```
 store-demo.cloudorders.site?menu_id=6kNXYMVEl
 ```
 
@@ -32,9 +32,8 @@ You can find the menu id by following the instructions below.
 
 Log in to your restaurant store. Select the Menus section using the knife and fork button on the left-hand menu. Then press the 'Edit' button on the menu that you would like to directly link to.
 
-![](../.gitbook/assets/image%20%281%29.png)
+![](<../.gitbook/assets/image (1) (1).png>)
 
 The menu id is displayed at the top of the page. Use this code to directly link to your menu as per the above instructions.
 
-![](../.gitbook/assets/image.png)
-
+![](<../.gitbook/assets/image (17).png>)

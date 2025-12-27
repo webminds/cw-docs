@@ -23,7 +23,7 @@ Once you have purchased a domain, you will need to complete the steps in our oth
 2. Select the "Domains List" on the left menu
 3. Select the "Manage" button beside your domain name
 4. Navigate to the "Advanced DNS" tab under your domain settings
-5. Press "Add New Record" to create a DNS record. 
+5. Press "Add New Record" to create a DNS record.&#x20;
 
 {% hint style="warning" %}
 You may have to remove some default records already set in order to add ours
@@ -44,4 +44,3 @@ Your store will be accessible on your own unique subdomain that you can choose. 
 A custom domain is a domain name you purchase and connect to our service. You can register any domain name available such as "yourbusiness.com" and connect it to our service. This way customers can go directly your domain name to find your online ordering system.
 
 It is often desirable to have your own domain name for your store in order to better promote your own brand and business. It is much easier to tell your customers to find you at "order.yourbusiness.com" instead of "yourbusiness.cloudorders.site".
-

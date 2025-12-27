@@ -4,21 +4,33 @@ description: >-
   setting up your restaurant, customizing your settings and managing orders.
 ---
 
-# Getting Started
+# 🚀 Getting Started
 
-{% page-ref page="hardware-requirements-1.md" %}
+{% content-ref url="hardware-requirements-1.md" %}
+[hardware-requirements-1.md](hardware-requirements-1.md)
+{% endcontent-ref %}
 
-{% page-ref page="10-minute-quickstart.md" %}
+{% content-ref url="10-minute-quickstart.md" %}
+[10-minute-quickstart.md](10-minute-quickstart.md)
+{% endcontent-ref %}
 
-{% page-ref page="setup-your-menus.md" %}
+{% content-ref url="setup-your-menus.md" %}
+[setup-your-menus.md](setup-your-menus.md)
+{% endcontent-ref %}
 
-{% page-ref page="configure-your-services.md" %}
+{% content-ref url="configure-your-services.md" %}
+[configure-your-services.md](configure-your-services.md)
+{% endcontent-ref %}
 
-{% page-ref page="customize-your-design.md" %}
+{% content-ref url="customize-your-design.md" %}
+[customize-your-design.md](customize-your-design.md)
+{% endcontent-ref %}
 
-{% page-ref page="managing-orders-and-bookings.md" %}
+{% content-ref url="managing-orders-and-bookings.md" %}
+[managing-orders-and-bookings.md](managing-orders-and-bookings.md)
+{% endcontent-ref %}
 
-{% page-ref page="promoting-your-store/" %}
-
-
+{% content-ref url="promoting-your-store/" %}
+[promoting-your-store](promoting-your-store/)
+{% endcontent-ref %}
 

@@ -4,5 +4,5 @@ description: >-
   payments, customer accounts, order printing and more.
 ---
 
-# How To Guides
+# 💡 How To Guides
 
